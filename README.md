@@ -1,1 +1,1 @@
-# my-infinite-game
+# heet-game
